@@ -2,3 +2,6 @@ https://universe.roboflow.com/coursedesign/mario-ryflp
 
 
 https://universe.roboflow.com/baptiste-hustaix-znm0u/mario-ai-database-detection
+https://universe.roboflow.com/baptiste-hustaix-znm0u/mario-ai-database-detection
+
+https://docs.ultralytics.com/tasks/detect/#dataset-format
